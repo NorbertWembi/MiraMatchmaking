@@ -137,3 +137,5 @@ Enable in Google Cloud Console under **APIs & Services**.
 Required by the backend to access the database.
 
 Store all keys securely inside `.env`.
+
+N.B: I have added a manual implementation that supports users attaching emojis in the chat. I am still to use the actual emoji_picker from the flutter library
